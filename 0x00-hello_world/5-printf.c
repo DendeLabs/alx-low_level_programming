@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main: print the phrase with proper grammar, but the outcome is a piece of art,
-*return: 0 is successful or non-zero otherwise
+*return 0 if successful or non-zero otherwise
 */
 int main(void)
 {
